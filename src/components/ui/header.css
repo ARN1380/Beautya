@@ -1,0 +1,43 @@
+header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height: 107px;
+  width: 100%;
+  max-width: 1224px;
+}
+
+header nav ul {
+  display: flex;
+  gap: 40px;
+  margin-top: 30px;
+}
+
+header nav ul li {
+  text-transform: capitalize;  
+  font-weight: bold;
+  color: #202020;
+}
+
+.header-actions {
+  display: flex; 
+  gap: 12px;
+}
+
+.header-actions__vertical-line {
+  border-left: 1px solid #868686;
+  height: 24px;
+}
+
+.header-actions__lang {
+  display: flex;
+  align-items: center;
+  font-size: 17px;
+  gap: 6px;
+}
+
+.header-actions__lang sub {
+  font-size: 12px;
+  margin-bottom: -3px;
+  color: #606060;
+}
