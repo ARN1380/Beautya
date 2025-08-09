@@ -1,8 +1,23 @@
-# React + Vite
+# Beautya - Cosmetics Landing Page
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A responsive and modern landing page for a cosmetics and skincare brand, **Beautya**.  
+This project showcases a clean UI design, smooth layout, and product presentation optimized for beauty-related businesses.
 
-Currently, two official plugins are available:
+<img width="2968" height="4611" alt="beautifyco netlify2 app_" src="https://github.com/user-attachments/assets/2af994f3-74d7-4f3f-a153-ae8a6b690545" />
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+## 🚀 Live Demo
+https://beautifyco.netlify.app/
+
+## 📌 Features
+- **Responsive Design** – Works seamlessly on desktop, tablet, and mobile.
+- **Product Categories** – Showcases multiple categories like Makeup, Skincare, and Gift Sets.
+- **New Arrivals Section** – Highlights the latest products.
+- **Special Offers Banner** – Promotional discounts and sales.
+- **Virtual Skincare Analysis** – Interactive feature for personalized recommendations.
+- **Blog Section** – Beauty tips and skincare advice.
+- **Modern UI/UX** – Stylish color palette, clean typography, and structured layout.
+
+## 🛠️ Tech Stack
+- **React**
+- **TailwindCSS** 
